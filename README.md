@@ -9,7 +9,7 @@ Run these commands:
 `sudo apt install npm`
 
 
-`npm install` if you get error then use sudu npm install to give permission 
+`npm install` if you get error then use "sudu npm install" to give permission 
 
 `node app.js`
 
